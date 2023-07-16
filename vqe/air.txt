@@ -1,0 +1,66 @@
+gate-based  duration: 34432 pulse-based  duration: 7392  Interatomic Distance: 0.4 VQE Result: -6.60634 Exact Energy: -6.63642
+gate-based  duration: 34432 pulse-based  duration: 5920  Interatomic Distance: 0.8 VQE Result: -7.43692 Exact Energy: -7.63338 
+gate-based  duration: 34432 pulse-based  duration: 5280  Interatomic Distance: 1.2 VQE Result: -7.62467 Exact Energy: -7.85216
+gate-based  duration: 34432 pulse-based  duration: 10880 Interatomic Distance: 1.6 VQE Result: -7.85892 Exact Energy: -7.88210
+gate-based  duration: 34432 pulse-based  duration: 7616  Interatomic Distance: 2.0 VQE Result: -7.82753 Exact Energy: -7.86083
+gate-based  duration: 34432 pulse-based  duration: 3936  Interatomic Distance: 2.4 VQE Result: -7.62246 Exact Energy: -7.83034
+gate-based  duration: 34432pulse-based  duration:  7456  Interatomic Distance: 2.8 VQE Result: -7.71107 Exact Energy: -7.80644
+gate-based  duration: 34432 pulse-based  duration: 4832  Interatomic Distance: 3.2 VQE Result: -7.68871 Exact Energy: -7.79293
+gate-based  duration: 34432 pulse-based  duration: 4224  Interatomic Distance: 3.6 VQE Result: -7.62113 Exact Energy: -7.78664
+gate-based  duration: 34432 pulse-based  duration: 8608  Interatomic Distance: 4.0 VQE Result: -7.40121 Exact Energy: -7.78393
+
+gate-based  duration: 34432 pulse-based  duration: 11008 Interatomic Distance: 0.4 VQE Result: -6.51581 Exact Energy: -6.63642
+gate-based  duration: 34432 pulse-based  duration: 11008 Interatomic Distance: 0.8 VQE Result: -7.61575 Exact Energy: -7.63338
+gate-based  duration: 34432 pulse-based  duration: 10208 Interatomic Distance: 1.2 VQE Result: -7.83558 Exact Energy: -7.85216
+gate-based  duration: 34432 pulse-based  duration: 10048 Interatomic Distance: 1.6 VQE Result: -7.86171 Exact Energy: -7.88210
+gate-based  duration: 34432 pulse-based  duration: 10880 Interatomic Distance: 2.0 VQE Result: -7.83082 Exact Energy: -7.86083
+gate-based  duration: 34432 pulse-based  duration: 9664  Interatomic Distance: 2.4 VQE Result: -7.78328 Exact Energy: -7.83034
+gate-based  duration: 34432 pulse-based  duration: 10624 Interatomic Distance: 2.8 VQE Result: -7.73380 Exact Energy: -7.80644
+gate-based  duration: 34432 pulse-based  duration: 12448 Interatomic Distance: 3.2 VQE Result: -7.68033 Exact Energy: -7.79293
+gate-based  duration: 34432 pulse-based  duration: 10304 Interatomic Distance: 3.6 VQE Result: -7.65274 Exact Energy: -7.78664
+gate-based  duration: 34432 pulse-based  duration: 12864 Interatomic Distance: 4.0 VQE Result: -7.62246 Exact Energy: -7.78393
+
+gate-based 'duration:34432  pulse-based 'duration:9728  Interatomic Distance: 0.4  VQE Result: -6.61002  Exact Energy: -6.63642 
+gate-based 'duration:34432  pulse-based 'duration:8768  Interatomic Distance: 0.8  VQE Result: -7.44137  Exact Energy: -7.63338 
+gate-based 'duration:34432  pulse-based 'duration:6304  Interatomic Distance: 1.2  VQE Result: -7.83550  Exact Energy: -7.85216 
+gate-based 'duration:34432  pulse-based 'duration:9792  Interatomic Distance: 1.6  VQE Result: -7.86148  Exact Energy: -7.88210 
+gate-based 'duration:34432  pulse-based 'duration:4288  Interatomic Distance: 2.0  VQE Result: -7.83087  Exact Energy: -7.86083 
+gate-based 'duration:34432  pulse-based 'duration:8544  Interatomic Distance: 2.4  VQE Result: -7.78302  Exact Energy: -7.83034 
+gate-based 'duration:34432  pulse-based 'duration:8544  Interatomic Distance: 2.8  VQE Result: -7.73378  Exact Energy: -7.80644 
+gate-based 'duration:34432  pulse-based 'duration:8256  Interatomic Distance: 3.2  VQE Result: -7.68899  Exact Energy: -7.79293 
+gate-based 'duration:34432  pulse-based 'duration:6176  Interatomic Distance: 3.6  VQE Result: -7.65265  Exact Energy: -7.78664 
+gate-based 'duration:34432  pulse-based 'duration:6752  Interatomic Distance: 4.0  VQE Result: -7.62370  Exact Energy: -7.78393 
+
+calc = qiskit_nature.algorithms.GroundStateEigensolver(converter, solver)
+gate-based 'duration:35712  pulse-based 'duration:8768  Interatomic Distance: 0.4  VQE Result: -6.60959  Exact Energy: -6.63642 
+gate-based 'duration:35712  pulse-based 'duration:5056  Interatomic Distance: 0.8  VQE Result: -7.61542  Exact Energy: -7.63338 
+gate-based 'duration:35712  pulse-based 'duration:6464  Interatomic Distance: 1.2  VQE Result: -7.83549  Exact Energy: -7.85216 
+gate-based 'duration:35712  pulse-based 'duration:10496 Interatomic Distance: 1.6  VQE Result: -7.75874  Exact Energy: -7.88210 
+gate-based 'duration:35712  pulse-based 'duration:9664  Interatomic Distance: 2.0  VQE Result: -7.83077  Exact Energy: -7.86083 
+gate-based 'duration:35712  pulse-based 'duration:6848  Interatomic Distance: 2.4  VQE Result: -7.78311  Exact Energy: -7.83034 
+gate-based 'duration:35712  pulse-based 'duration:9248  Interatomic Distance: 2.8  VQE Result: -7.73388  Exact Energy: -7.80644 
+gate-based 'duration:35712  pulse-based 'duration:12000 Interatomic Distance: 3.2  VQE Result: -7.68923  Exact Energy: -7.79293 
+gate-based 'duration:35712  pulse-based 'duration:8896  Interatomic Distance: 3.6  VQE Result: -7.65192  Exact Energy: -7.78664 
+gate-based 'duration:35712  pulse-based 'duration:4384  Interatomic Distance: 4.0  VQE Result: -7.62347  Exact Energy: -7.78393 
+
+gate-based 'duration:35712  pulse-based 'duration:11584  Interatomic Distance: 0.4  VQE Result: -6.51549  Exact Energy: -6.63642 
+gate-based 'duration:35712  pulse-based 'duration:12544  Interatomic Distance: 0.8  VQE Result: -7.61575  Exact Energy: -7.63338 
+gate-based 'duration:35712  pulse-based 'duration:10656  Interatomic Distance: 1.2  VQE Result: -7.83559  Exact Energy: -7.85216 
+gate-based 'duration:35712  pulse-based 'duration:14624  Interatomic Distance: 1.6  VQE Result: -7.86184  Exact Energy: -7.88210 
+gate-based 'duration:35712  pulse-based 'duration:11968  Interatomic Distance: 2.0  VQE Result: -7.83087  Exact Energy: -7.86083 
+gate-based 'duration:35712  pulse-based 'duration:10496  Interatomic Distance: 2.4  VQE Result: -7.78335  Exact Energy: -7.83034 
+gate-based 'duration:35712  pulse-based 'duration:13856  Interatomic Distance: 2.8  VQE Result: -7.73399  Exact Energy: -7.80644 
+gate-based 'duration:35712  pulse-based 'duration:11072  Interatomic Distance: 3.2  VQE Result: -7.68935  Exact Energy: -7.79293 
+gate-based 'duration:35712  pulse-based 'duration:12256  Interatomic Distance: 3.6  VQE Result: -7.65165  Exact Energy: -7.78664 
+gate-based 'duration:35712  pulse-based 'duration:13792  Interatomic Distance: 4.0  VQE Result: -7.62498  Exact Energy: -7.78393 
+
+gate-based 'duration:35712  pulse-based 'duration:9632  Interatomic Distance: 0.4  VQE Result: -6.61016  Exact Energy: -6.63642 
+gate-based 'duration:35712  pulse-based 'duration:8832  Interatomic Distance: 0.8  VQE Result: -7.61564  Exact Energy: -7.63338 
+gate-based 'duration:35712  pulse-based 'duration:9344  Interatomic Distance: 1.2  VQE Result: -7.83550  Exact Energy: -7.85216 
+gate-based 'duration:35712  pulse-based 'duration:8672  Interatomic Distance: 1.6  VQE Result: -7.86163  Exact Energy: -7.88210 
+gate-based 'duration:35712  pulse-based'duration:11168  Interatomic Distance: 2.0  VQE Result: -7.69180  Exact Energy: -7.86083 
+gate-based 'duration:35712  pulse-based 'duration:8448  Interatomic Distance: 2.4  VQE Result: -7.78304  Exact Energy: -7.83034 
+gate-based 'duration:35712  pulse-based 'duration:9088  Interatomic Distance: 2.8  VQE Result: -7.73393  Exact Energy: -7.80644 
+gate-based 'duration:35712  pulse-based 'duration:8448  Interatomic Distance: 3.2  VQE Result: -7.68935  Exact Energy: -7.79293 
+gate-based 'duration:35712  pulse-based 'duration:8544  Interatomic Distance: 3.6  VQE Result: -7.65240  Exact Energy: -7.78664 
+gate-based 'duration:35712  pulse-based 'duration:8000  Interatomic Distance: 4.0  VQE Result: -7.62482  Exact Energy: -7.78393 
